@@ -9,7 +9,7 @@ ID: CVE-2020-25985
 
 Title: MonoCMS Blog v1.0 - Arbitrary File Deletion (Authenticated)
 
-PoC: https://www.exploit-db.com/exploits/48848
+PoC: https://www.exploit-db.com/exploits/48848 </br>
 
 
 
