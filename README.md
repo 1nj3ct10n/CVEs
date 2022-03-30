@@ -2,45 +2,32 @@
 ### List of CVEs to my name
 
 
+**ID: CVE-2020-25985**
 
-
-
-ID: CVE-2020-25985
-
-Title: MonoCMS Blog v1.0 - Arbitrary File Deletion (Authenticated)
+_Title: MonoCMS Blog v1.0 - Arbitrary File Deletion (Authenticated)_
 
 PoC: https://www.exploit-db.com/exploits/48848 < /br>
 
+**ID: CVE-2020-25986**
 
-
-
-ID: CVE-2020-25986
-
-Title: MonoCMS Blog v1.0 - Account Takeover (CSRF)
+_Title: MonoCMS Blog v1.0 - Account Takeover (CSRF)_
 
 PoC: https://www.exploit-db.com/exploits/48848
 
+**ID: CVE-2020-25987**
 
-
-
-ID: CVE-2020-25987
-
-Title: MonoCMS Blog v1.0 - Hard-Coded Credentials
+_Title: MonoCMS Blog v1.0 - Hard-Coded Credentials_
 
 PoC: https://www.exploit-db.com/exploits/48848
 
+**ID: CVE-2020-28687**
 
-
-ID: CVE-2020-28687
-
-Title: Artworks Gallery 1.0 - Arbitrary File Upload RCE (Authenticated) via Edit Profile
+_Title: Artworks Gallery 1.0 - Arbitrary File Upload RCE (Authenticated) via Edit Profile_
 
 PoC: https://www.exploit-db.com/exploits/49167
 
+**ID: CVE-2020-28688**
 
-
-ID: CVE-2020-28688
-
-Title: Artworks Gallery 1.0 - Arbitrary File Upload RCE (Authenticated) via Add Artwork
+_Title: Artworks Gallery 1.0 - Arbitrary File Upload RCE (Authenticated) via Add Artwork_
 
 PoC: https://www.exploit-db.com/exploits/49166
