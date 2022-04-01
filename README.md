@@ -31,3 +31,9 @@
 - _Title: Artworks Gallery 1.0 - Arbitrary File Upload RCE (Authenticated) via Add Artwork_
 
 - _PoC: https://www.exploit-db.com/exploits/49166_
+
+**ID: CVE-2021-46439**
+
+- _Title: EG Free AntiVirus - Local Privilege Escalation due to Unquoted Service Paths_
+
+- _PoC: TBA_
